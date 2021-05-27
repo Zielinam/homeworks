@@ -238,10 +238,6 @@ checkFemale("Justyna") === true
 checkFemale("Marcin") === false
 */
 
-function checkFemale() {
-        let name = document.getElementById("name");
-        function check()
-    };
 
 
 /**
@@ -257,7 +253,7 @@ function checkFemale() {
  * i zwraca funkcje, ktora przyjmuje pozostale parametry i dopiero wywolanie tej funkcji zwroci
  * koszt trasy
  * */
-
+/*
 function car(trasa, cena, spalanie ) {
     let trasa = 732;
     let cena = 5.56
@@ -267,7 +263,7 @@ function car(trasa, cena, spalanie ) {
         
     }
 }
-
+*/
 
 
 
